@@ -1,0 +1,50 @@
+{
+	"kc": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/kc/arrow"
+		]
+	},
+	"kccalled": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/kc/called"
+		]
+	},
+	"kcph": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/kc/punch"
+		]
+	},
+	"kcchop": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/kc/chop"
+		]
+	},
+	"kcdt": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/kc/donut"
+		]
+	},
+	"kcskip": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/kc/skip"
+		]
+	},
+	"kcte": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/kc/te"
+		]
+	},
+	"kctskip": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/kc/tskip"
+		]
+	}
+}
